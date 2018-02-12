@@ -6,6 +6,7 @@
 h1 {
   font-size: 36px;
   margin-bottom: 8px;
+  font-family: 'Lobster', sans-serif;
 }
 
 .subtext {
@@ -19,14 +20,14 @@ h2 {
 }
 
 body {
-font-family: 'Lato', sans-serif;
+font-family: 'Playfair Display', sans-serif;
 }
 
 #line {
   position: absolute;
   left: 0;
   right: 0;
-  top: 0;
+  top: 20;
   height: 4px;
   background-color: #0066CC;
 }
