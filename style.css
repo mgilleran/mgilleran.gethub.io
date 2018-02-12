@@ -1,6 +1,6 @@
 #content {
   width: 600px;
-  margin: 120px auto;
+  margin: 50px auto;
 }
 
 h1 {
@@ -28,11 +28,22 @@ font-family: 'Playfair Display', sans-serif;
   left: 0;
   right: 0;
   top: 20;
-  height: 4px;
+  height: 20px;
+  background-color: #0066CC;
+}
+
+#line1 {
+  margin: 10px auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  /* top: 850; */
+  height: 20px;
   background-color: #0066CC;
 }
 
 #project-list {
+  /* font-size: 40px; */
   display: flex;                  /* Flex box */
   flex-direction: row;            /* Left to right */
   flex-wrap: wrap;                /* Wrap content */
@@ -41,13 +52,13 @@ font-family: 'Playfair Display', sans-serif;
 
 .project {
   flex: 0 0 140px;                /* No grow/shrink, 140px width */
-  height: 140px;
+  height: 40px;
   margin-bottom: 10px;
   background-color: #7AA3CC;
 }
 
 .project {
-  transition: 0.2s background-color; /* add this */
+  transition: 0.8s background-color; /* add this */
 }
 
 .project:hover {
@@ -55,9 +66,11 @@ font-family: 'Playfair Display', sans-serif;
 }
 
 #photo {
-  width: 150px;
+  /* height: 200px; */
+  width: 500px;
+  /* border-radius: 50%; */
 }
 
 h1, h2 {
-color: #0066CC;
+/* color: #0066CC; */
 }
