@@ -40,7 +40,7 @@ font-family: 'Playfair Display', sans-serif;
   right: 0;
   /* top: 850; */
   height: 20px;
-  background-color: #0066CC;
+  background-color: #000080;
 }
 
 #project-list {
@@ -73,7 +73,7 @@ font-family: 'Playfair Display', sans-serif;
 }
 
 .photo {
-  transition: 0.4s background-color; /* add this */
+  transition: 0.4s background-color: #FFEFD5;
 }
 
 .project:hover {
