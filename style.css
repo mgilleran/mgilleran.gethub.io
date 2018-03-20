@@ -30,7 +30,7 @@ font-family: 'Playfair Display', sans-serif;
   right: 0;
   top: 20;
   height: 20px;
-  background-color: #0066CC;
+  background-color: #008080 /* #0066CC;*/
 }
 
 #line1 {
@@ -59,7 +59,7 @@ font-family: 'Playfair Display', sans-serif;
 }
 
 .project {
-  transition: 0.8s background-color: 	#F4A460;
+  transition: 0.8s background-color: ;
 }
 
 .project:hover {
