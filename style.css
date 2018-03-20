@@ -59,7 +59,7 @@ font-family: 'Playfair Display', sans-serif;
 }
 
 .project {
-  transition: 0.8s background-color; /* add this */
+  transition: 0.8s background-color: 	#F4A460;
 }
 
 .project:hover {
@@ -81,5 +81,5 @@ font-family: 'Playfair Display', sans-serif;
 }
 
 h1, h2 {
-/* color: #0066CC; */
+ color: #0066CC;
 }
