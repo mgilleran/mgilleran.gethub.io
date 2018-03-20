@@ -67,7 +67,7 @@ font-family: 'Playfair Display', sans-serif;
 }
 
 #photo {
-  /* height: 200px; */
+  height: 200px;
   width: 500px;
   /* border-radius: 50%; */
 }
