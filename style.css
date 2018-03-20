@@ -55,7 +55,7 @@ font-family: 'Playfair Display', sans-serif;
   flex: 0 0 140px;                /* No grow/shrink, 140px width */
   height: 40px;
   margin-bottom: 10px;
-  background-color: #0066CC;
+  background-color: 	#000080;
 }
 
 .project {
