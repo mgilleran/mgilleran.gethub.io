@@ -1,1 +1,3 @@
-# mgilleran.github.io
+# Madeline Gilleran
+
+just stuff about myself
