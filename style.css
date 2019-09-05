@@ -24,14 +24,13 @@ body {
 font-family: 'Playfair Display', sans-serif;
 }
 
-#line {
+/* #line {
   position: absolute;
   left: 0;
   right: 0;
   top: 20;
   height: 20px;
   background-color:#0066CC /* #008080 /* #0066CC;*/
-}
 
 #line1 {
   margin: 10px auto;
